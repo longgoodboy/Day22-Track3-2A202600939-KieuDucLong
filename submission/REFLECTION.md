@@ -1,6 +1,6 @@
 # Reflection — Lab 22 (DPO/ORPO Alignment)
 
-**Tên:** Nguyễn Huy Tú
+**Tên:** Kiều Đức Long MSV: 2A202600939
 **Cohort:** A20  
 **Tier đã chạy:** T4  
 **Date:** 2026-05-08

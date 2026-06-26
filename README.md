@@ -1,8 +1,8 @@
 # Day 22 — DPO/ORPO Alignment Lab Submission
 
 ## Student Information
-- **Họ tên:** Nguyễn Huy Tú  
-- **MSV:** 2A202600170
+- **Họ tên:** Kiều Đức Long
+- **MSV:** 2A202600939
 
 ## Submission Artifacts
 
